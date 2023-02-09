@@ -6,8 +6,8 @@ The smartcontract allow to x quantity of users be whitelisted.
 If limit is reached don't allow to add more users.
 
 Technologies used:
--Solidity
--Hardhat
+- Solidity
+- Hardhat
 
 
 ## FrontEnd
@@ -15,8 +15,8 @@ Technologies used:
 https://github.com/serranomatias/whitelist-front
 
 The front-end use: 
--Next.js
--dotenv
--web3modal
--ethers.js
+- Next.js
+- dotenv
+- web3modal
+- ethers.js
 
